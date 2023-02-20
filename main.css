@@ -1,7 +1,7 @@
 :root {
 	--background-color: #000000;
-	--container-color: #f7f7f7;
-	--button-color: #f2f0f0;
+	--container-color: #FFFFFF;
+	--button-color: #FFFFFF;
 	--blue-accent: #4a4c63;
 	--red-accent: #553737;
 	--green-accent: #3f4f50;
@@ -35,7 +35,7 @@
 }
 
 ::selection {
-	background-color: #0447c888;
+	background-color: #000000;
 	color: #FFF;
 }
 
